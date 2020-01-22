@@ -1,5 +1,5 @@
 body {
-  font-family: "Lucida Grande","sans-serif";
+  font-family: 'Lucida Grande', sans-serif;
   background-color: #000000;
   color: #ffffff;
 }
@@ -29,35 +29,22 @@ img{
 
 div {
   min-height: 150px;
-  /*height: auto; */
   padding: 25px;
 }
 
 #red{
-  /*min-height: 150px;*/
-  /*height: auto;*/
-  /*padding: 25px;*/
-
   background-color: #ff0000;
   text-align: right;
 }
 #blue{
-  /*min-height: 150px;*/
-  /*height: auto;*/
-  /*padding: 25px;*/
-
   background-color: #0000ff;
   text-align: left;
 }
 #yellow {
-  /*min-height: 150px;*/
-  /*height: auto;*/
-  /*padding: 25px;*/
-
   background-color: #ffff00;
   text-align: right;
-
 }
+
 #yellow p,
 #yellow h2{
   color: #000000;
